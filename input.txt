@@ -1,0 +1,2 @@
+Customer_Code, Customer_Name, Invoice_Date, Book_Code, Book_Name, Book_Category_Code, Book_Category_Name, Quantity, Price, Amount, Gross_Total, Discount, Net_Total
+001, Chamal, 2015-09-23, B001, Hanthanaya, K001, Reference, 10, 2000, 50, 20000, 110, 19890
